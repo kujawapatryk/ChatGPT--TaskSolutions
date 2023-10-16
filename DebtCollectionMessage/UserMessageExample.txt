@@ -1,0 +1,58 @@
+example_1
+
+{
+        "current_date": "16.10.2023",
+	"debtor_data":{
+		"first_name": null,
+		"last_name": null,
+                "company": "Wszysko dla Ciebie z o.o."
+		"address": "Moja 12, Poznań",
+               "email": "info@testowy.pl"
+	},
+	"invoice":{
+		"code": "12-13/23",
+		"amount": 2000,
+                "currency": "PLN",
+		"due_date": "2023-05-15",
+	}
+}
+
+
+example_2
+
+{
+        "current_date": "16.10.2023",
+	"debtor_data":{
+		"first_name": null,
+		"last_name": null,
+                "company": "Wszysko dla Ciebie z o.o."
+		"address": "Moja 12, Poznań",
+               "email": "info@testowy.pl"
+	},
+	"invoice":{
+		"code": "12-13/23",
+		"amount": 2000,
+                "currency": "PLN",
+		"due_date": "2023-05-15",
+	}
+}
+
+example_3
+
+
+{
+	"debtor_data":{
+		"first_name": "Jan",
+		"last_name": "Kowalski",
+		"address": "Moja 12, Poznań",
+		"company": "Losowa firma",
+               "email": "info@testowy.pl"
+	},
+	"invoice":{
+		"code": "12-13/23",
+		"amount": 2000,
+                "currency": "PLN",
+		"due_date": "2023-04-23",
+		"delay_weeks": 2
+	}
+}
