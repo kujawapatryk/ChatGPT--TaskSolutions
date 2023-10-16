@@ -16,7 +16,7 @@ This repository contains solutions to three specific problems using the ChatGPT 
 2. **Debt Collection Message**:
    - **Objective**: Generate a debt collection message directed to individuals with overdue invoice payments.
    - **Solution**: [Link to solution code](https://github.com/kujawapatryk/ChatGPT--TaskSolutions/tree/main/DebtCollectionMessage)
-   - **Playground Example**: [Link to example](#)
+   - **Playground Example**: [Link to example](https://platform.openai.com/playground/p/lfA5Kx5gZAvC6k7Cy9mFqX6v?model=gpt-3.5-turbo-16k)
 
 3. **Chatbot for Product Complaints**:
    - **Objective**: Create a chatbot that accepts product complaints from users.
